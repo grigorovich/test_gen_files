@@ -3,7 +3,9 @@ cd "$(dirname "$0")"
 
 # Example how to output random values to files
 
-for i in $(seq 1 10);
+echo "Test creating files with random files"
+
+for i in $(seq 1 11);
 do
   formatted_date_year=$(($(od -An -N2 -i /dev/urandom) % 6 + 2020))
   
