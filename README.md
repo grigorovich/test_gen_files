@@ -10,10 +10,14 @@ like that: "20220224050113"
 
 And use also fixed 64 bytes as "icon"
 --------------------------
+ps: 2505
 
 type: v_c (not t_c)
 use hash: SHA512
 
 --------------------------
-T 8GB pers:
-part0 + "tails"
+
+tele2 experiments
+macos 2204
+
+ToDo:
