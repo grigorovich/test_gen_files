@@ -18,6 +18,10 @@ use hash: SHA512
 --------------------------
 
 tele2 experiments
+
+
 macos 2204
+linux 2208
+win   2212
 
 ToDo:
