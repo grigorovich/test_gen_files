@@ -26,4 +26,4 @@ linux 2208
 windows   2212
 
 --------------------------
-Telegram experiments To-Do : part0 + telegram + OS
+Tele2 experiments p for v_c : part0 + telegram + OS
