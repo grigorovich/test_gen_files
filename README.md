@@ -1,2 +1,9 @@
-# test_gen_files
-Just experimental tests on bash
+Just experimental tests on bash:
+
+generate files with random content
+
+Strings
+
+Binary
+
+with various size (4k aligned)
