@@ -27,3 +27,4 @@ windows   2212
 
 --------------------------
 Tele2 experiments p for v_c : part0 + telegram + OS
+p 8888
