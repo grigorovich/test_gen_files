@@ -1,0 +1,20 @@
+Just experimental tests with Arch1 and Arch2
+
+Create random files
+
+part0: y.n.t.a.m.195..6
+part1: filename's digits w/o "_", w/o ".", w/o extensions (20220224050113)
+
+type: v_c (not t_c)
+use hash: SHA512
+
+use fixed 64 bytes as "icon"
+
+pp: part0 part1 lux
+
+--------------------------
+Arch1: x201020
+luxpp: part0 lux
+--------------------------
+Arch2: x201021
+luxpp: part0 lux
