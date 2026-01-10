@@ -1,0 +1,47 @@
+Just experimental tests with Arch1 and Arch2
+
+Create random files
+
+part0: y.n.t.a.m.195..6
+part1: filename's digits w/o "_", w/o ".", w/o extensions (20220224050113)
+
+type: v_c (not t_c) use: S512
+
+use fixed 64 bytes as "icon"
+
+pp for vc: part0 part1 lux
+
+
+HEADERS:
+--------------------------
+A1: x200220
+luxpp: part0 lux
+--------------------------
+A2: x200221
+luxpp: part0 lux
+
+--------------------------
+A1_COPY1: x201020
+luxpp: part0 lux
+--------------------------
+A2_COPY2: x201021
+luxpp: part0 lux
+
+----3.5-------------------
+A1_COPY2: x200316
+luxpp: part0 lux
+----3.5-------------------
+A2_COPY2: x200317
+luxpp: part0 lux
+
+
+================================
+zip mobile scripts test dummy : part0 "tr.....n" "mon......" "mod....."
+
+--------------------------------
+mobile scripts in vc: x2601
+p: part0 part1 remote vc
+
+--------------------------------
+zip mobile script test_remote : "tr......n" part0 "mon......" "mod....."
+

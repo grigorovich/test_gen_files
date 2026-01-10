@@ -1,0 +1,45 @@
+Just experimental tests
+
+Create random files
+
+----------------------
+enter to random data, psync, PS4 and etc:
+----------------------
+part0:
+"y.n.t.a.m.195..6"
+----------------------
+part1:
+filename's digits w/o "_", w/o ".", w/o extensions
+like that: "20220224050113"
+----------------------
+And use also fixed 64 bytes as "icon"
+
+==========================
+
+ps: *2505*_* (2M)
+
+type: v_c (not t_c)
+use hash: SHA512
+part0 part1
+
+--------------------------
+
+scripts:
+download and open
+ps vc
+open disks
+
+test dummy pwd
+pp: part0 + opendisks + zip
+
+--------------------------
+
+tele2 experiments
+
+macos 2204
+linux 2208
+windows   2212
+
+--------------------------
+Tele2 experiments p for v_c : part0 telegram OS
+p 8888
